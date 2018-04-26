@@ -1,0 +1,1 @@
+FROM k8s.gcr.io/heapster-amd64:v1.9.6
